@@ -400,13 +400,13 @@
           <mxGeometry x="810" y="1705" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-36" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="733" y="2080" width="125" height="49" as="geometry" />
+          <mxGeometry x="495" y="1900" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="392" y="1710" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-38" value="视情修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1900" width="126" height="49" as="geometry" />
+          <mxGeometry x="733" y="1900" width="126" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
