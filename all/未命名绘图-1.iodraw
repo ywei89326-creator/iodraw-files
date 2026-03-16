@@ -192,7 +192,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tctJ4ftzU6xPDyo8Bqrz-43" value="运动控制指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.43;entryY=0;rounded=0;" edge="1" parent="1" source="tctJ4ftzU6xPDyo8Bqrz-5" target="tctJ4ftzU6xPDyo8Bqrz-11">
+        <mxCell id="tctJ4ftzU6xPDyo8Bqrz-43" value="运动控制指令机器人控制" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.43;entryY=0;rounded=0;" edge="1" parent="1" source="tctJ4ftzU6xPDyo8Bqrz-5" target="tctJ4ftzU6xPDyo8Bqrz-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="269" y="918" />
