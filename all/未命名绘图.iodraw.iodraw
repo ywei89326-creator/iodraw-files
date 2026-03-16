@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-0" value="通信管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-2" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="590" width="120" height="30" as="geometry" />
