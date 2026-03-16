@@ -19,10 +19,10 @@
             <mxPoint x="451" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RJWN2jvHMIS_Ag5mEd64-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RJWN2jvHMIS_Ag5mEd64-14">
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RJWN2jvHMIS_Ag5mEd64-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="229.97" as="targetPoint" />
-            <mxPoint x="424" y="349.97" as="sourcePoint" />
+            <mxPoint x="424" y="349.97" as="targetPoint" />
+            <mxPoint x="310" y="229.97" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="270" y="350" />
             </Array>
@@ -71,10 +71,10 @@
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-10" value="数控系统（CNC）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="660" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RJWN2jvHMIS_Ag5mEd64-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RJWN2jvHMIS_Ag5mEd64-15">
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RJWN2jvHMIS_Ag5mEd64-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="230" as="targetPoint" />
-            <mxPoint x="471" y="349.97" as="sourcePoint" />
+            <mxPoint x="471" y="349.97" as="targetPoint" />
+            <mxPoint x="420" y="230" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="400" y="350" />
             </Array>
