@@ -22,6 +22,9 @@
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-2" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-4" value="PLC(力控系统）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
