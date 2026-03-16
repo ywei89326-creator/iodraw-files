@@ -4,9 +4,10 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="RJWN2jvHMIS_Ag5mEd64-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RJWN2jvHMIS_Ag5mEd64-0">
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="560" as="targetPoint" />
+            <mxPoint x="200" y="590" as="targetPoint" />
+            <mxPoint x="380" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-0" value="通信管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
