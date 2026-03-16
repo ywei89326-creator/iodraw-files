@@ -16,6 +16,11 @@
             <mxPoint x="451" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RJWN2jvHMIS_Ag5mEd64-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-0" value="通信管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="350" width="120" height="60" as="geometry" />
         </mxCell>
