@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3XKi9o9M3rQRHpybS6zx">
-    <mxGraphModel dx="1810" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5580" dy="2470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,52 +388,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-33" value="统一空间基准&#xa;+&#xa;多源数据融合" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1710" width="113" height="113" as="geometry" />
+          <mxGeometry x="1761.25" y="1809" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-34" value="环境感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1580" width="125" height="49" as="geometry" />
+          <mxGeometry x="1749.25" y="1679" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-35" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1705" width="126" height="49" as="geometry" />
+          <mxGeometry x="1951.25" y="1804" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-36" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="1870" width="125" height="49" as="geometry" />
+          <mxGeometry x="1643.75" y="1969" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1713" width="142" height="49" as="geometry" />
+          <mxGeometry x="1555.25" y="1812" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-38" value="视情修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="733" y="1869" width="126" height="49" as="geometry" />
+          <mxGeometry x="1874.25" y="1968" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;激光扫描/机器视觉&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="611.5" y="1629" width="130" height="40" as="geometry" />
+          <mxGeometry x="1752.75" y="1728" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;点云配准/特征提取&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="818.5" y="1754" width="130" height="40" as="geometry" />
+          <mxGeometry x="1959.75" y="1853" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;运动学建模/避障算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="1920" width="140" height="40" as="geometry" />
+          <mxGeometry x="1643.75" y="2019" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;精密伺服/协同控制&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1762" width="130" height="40" as="geometry" />
+          <mxGeometry x="1555.25" y="1861" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-43" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;局部加工&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="733" y="1920" width="140" height="40" as="geometry" />
+          <mxGeometry x="1874.25" y="2019" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=75;" vertex="1" parent="1">
-          <mxGeometry x="734.45" y="1623.2" width="97.5" height="70" as="geometry" />
+          <mxGeometry x="1875.7" y="1722.2" width="97.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-210;" vertex="1" parent="1">
-          <mxGeometry x="752.75" y="1790.62" width="85.5" height="70" as="geometry" />
+          <mxGeometry x="1894" y="1889.62" width="85.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-105;" vertex="1" parent="1">
-          <mxGeometry x="509.28" y="1790.62" width="100.25" height="70" as="geometry" />
+          <mxGeometry x="1650.53" y="1889.62" width="100.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="513.4" y="1618.74" width="96.41" height="79" as="geometry" />
+          <mxGeometry x="1654.65" y="1717.74" width="96.41" height="79" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.61;dx=22.07;flipH=1;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="1886.25" width="69.75" height="23.75" as="geometry" />
+          <mxGeometry x="1783.75" y="1985.25" width="69.75" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
