@@ -224,9 +224,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NQSI_PV2AnohTStotP6f-1" value="Technology_Labels" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1440" width="684" height="757" as="geometry" />
-        </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-2" value="统一空间基准&#xa;+&#xa;多源数据融合" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="279" y="2059" width="113" height="113" as="geometry" />
         </mxCell>
@@ -427,7 +424,7 @@
           <mxGeometry x="734.45" y="1623.2" width="97.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-210;" vertex="1" parent="1">
-          <mxGeometry x="760.25" y="1791" width="85.5" height="70" as="geometry" />
+          <mxGeometry x="752.75" y="1790.62" width="85.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-105;" vertex="1" parent="1">
           <mxGeometry x="509.28" y="1790.62" width="100.25" height="70" as="geometry" />
