@@ -400,7 +400,7 @@
           <mxGeometry x="810" y="1705" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-36" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1900" width="125" height="49" as="geometry" />
+          <mxGeometry x="502.5" y="1870" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="392" y="1710" width="142" height="49" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="810" y="1759" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;运动学建模/避障算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1949" width="140" height="40" as="geometry" />
+          <mxGeometry x="502.5" y="1920" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;精密伺服/协同控制&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="1759" width="130" height="40" as="geometry" />
@@ -427,7 +427,7 @@
           <mxGeometry x="733" y="1635" width="85.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-210;" vertex="1" parent="1">
-          <mxGeometry x="773.5" y="1811" width="85.5" height="70" as="geometry" />
+          <mxGeometry x="773.5" y="1799" width="85.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-105;" vertex="1" parent="1">
           <mxGeometry x="495" y="1791" width="85.5" height="70" as="geometry" />
