@@ -393,6 +393,12 @@
         <mxCell id="NQSI_PV2AnohTStotP6f-33" value="统一空间基准&#xa;+&#xa;多源数据融合" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="1710" width="113" height="113" as="geometry" />
         </mxCell>
+        <mxCell id="NQSI_PV2AnohTStotP6f-34" value="环境感知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="608" y="1580" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NQSI_PV2AnohTStotP6f-35" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1705" width="126" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
