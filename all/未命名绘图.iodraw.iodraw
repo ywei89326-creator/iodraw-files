@@ -25,12 +25,6 @@
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-4" value="PLC(力控系统）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="590" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RJWN2jvHMIS_Ag5mEd64-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="473.51" y="590" as="targetPoint" />
-            <mxPoint x="417.51" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-6" value="相机（2D\3D）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="590" width="120" height="30" as="geometry" />
         </mxCell>
