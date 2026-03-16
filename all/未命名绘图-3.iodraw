@@ -399,6 +399,12 @@
         <mxCell id="NQSI_PV2AnohTStotP6f-35" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="1705" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="NQSI_PV2AnohTStotP6f-36" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="733" y="1910" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1911" width="142" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
