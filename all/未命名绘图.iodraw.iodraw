@@ -25,6 +25,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RJWN2jvHMIS_Ag5mEd64-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473.9999999999998" y="430.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RJWN2jvHMIS_Ag5mEd64-0" value="通信管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="350" width="120" height="50" as="geometry" />
         </mxCell>
@@ -101,6 +106,9 @@
               <mxPoint x="664" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RJWN2jvHMIS_Ag5mEd64-22" value="通信管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="424" y="360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
