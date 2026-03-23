@@ -105,7 +105,7 @@
             <mxPoint x="287.1" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIDe7jRjdWVNAGeVv5EH-37" value="工件坐标系矫正" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="nIDe7jRjdWVNAGeVv5EH-37" value="工件坐标系矫正" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="382.5" y="381" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
