@@ -14,7 +14,7 @@
           <mxGeometry x="492" y="20" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-4" value="工业相机采集作业区域点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="696" y="20" width="253" height="67" as="geometry" />
+          <mxGeometry x="696" y="20" width="253" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-5" value="点云数据滤波、降噪等预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="412" y="335" width="254" height="67" as="geometry" />
@@ -60,7 +60,7 @@
             <mxPoint x="480" y="42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-3" target="aIOe0osj9StLVJsEGYzd-4">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-3" target="aIOe0osj9StLVJsEGYzd-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -135,6 +135,9 @@
             <mxPoint x="395" y="359" as="sourcePoint" />
             <mxPoint x="395" y="409" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aIOe0osj9StLVJsEGYzd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-4" target="aIOe0osj9StLVJsEGYzd-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
