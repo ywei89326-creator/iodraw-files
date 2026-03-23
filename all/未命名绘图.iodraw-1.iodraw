@@ -41,7 +41,7 @@
           <mxGeometry x="255" y="92" width="134" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-11" value="机器人执行自动化打磨作业" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="351" width="253" height="49" as="geometry" />
+          <mxGeometry x="196" y="177" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-12" value="实时监控加工状态，数字孪生实时反应机器人当前状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-21" y="450" width="253" height="67" as="geometry" />
