@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-1" value="飞机到达并定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="20" width="173" height="49" as="geometry" />
+          <mxGeometry x="201" y="20" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-2" value="统一坐标系标定与转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="23" y="110" width="215" height="81" as="geometry" />
+          <mxGeometry x="180" y="110" width="215" height="81" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-3" value="建立工件坐标系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="230" width="173" height="49" as="geometry" />
+          <mxGeometry x="201" y="230" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-4" value="工业相机采集点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="320" width="221" height="49" as="geometry" />
@@ -74,15 +74,15 @@
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="131.11" y="191" as="sourcePoint" />
-            <mxPoint x="130.81" y="231" as="targetPoint" />
+            <mxPoint x="288.11" y="191" as="sourcePoint" />
+            <mxPoint x="287.81" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="130.61" y="69" as="sourcePoint" />
-            <mxPoint x="130.31" y="109" as="targetPoint" />
+            <mxPoint x="287.61" y="69" as="sourcePoint" />
+            <mxPoint x="287.31" y="109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1">
