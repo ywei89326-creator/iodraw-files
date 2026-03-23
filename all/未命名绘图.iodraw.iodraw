@@ -26,19 +26,19 @@
           <mxGeometry x="202.5" y="610" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-8" value="打磨轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="474" y="251" width="157" height="49" as="geometry" />
+          <mxGeometry x="484" y="251" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-9" value="轨迹后置处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="479" y="341" width="147.5" height="70" as="geometry" />
+          <mxGeometry x="489" y="341" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-10" value="下发机器人程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="466.5" y="441" width="173" height="49" as="geometry" />
+          <mxGeometry x="476.5" y="441" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-11" value="机器人执行打磨作业" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="531" width="205" height="49" as="geometry" />
+          <mxGeometry x="460.5" y="531" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-12" value="实时监控与安全管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="621" width="205" height="49" as="geometry" />
+          <mxGeometry x="460" y="621" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-8" target="nIDe7jRjdWVNAGeVv5EH-9">
           <mxGeometry relative="1" as="geometry">
