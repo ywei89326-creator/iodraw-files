@@ -14,7 +14,7 @@
           <mxGeometry x="44" y="250" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-4" value="工业相机采集点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="479" width="221" height="49" as="geometry" />
+          <mxGeometry x="20" y="350" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-5" value="点云数据预处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="49" y="578" width="163" height="163" as="geometry" />
@@ -41,11 +41,6 @@
           <mxGeometry x="28" y="1597" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-1" target="nIDe7jRjdWVNAGeVv5EH-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nIDe7jRjdWVNAGeVv5EH-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-4" target="nIDe7jRjdWVNAGeVv5EH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -97,6 +92,13 @@
             <Array as="points" />
             <mxPoint x="130.3" y="299" as="sourcePoint" />
             <mxPoint x="130.3" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIDe7jRjdWVNAGeVv5EH-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="130.8" y="399" as="sourcePoint" />
+            <mxPoint x="130.8" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
