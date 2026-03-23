@@ -23,22 +23,22 @@
           <mxGeometry x="192.5" y="320" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-7" value="模型匹配与对齐" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="49" y="890" width="163" height="163" as="geometry" />
+          <mxGeometry x="201" y="600" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-8" value="打磨轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1103" width="157" height="49" as="geometry" />
+          <mxGeometry x="187.5" y="840" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-9" value="轨迹后置处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="57" y="1202" width="147" height="147" as="geometry" />
+          <mxGeometry x="209" y="912" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-10" value="下发机器人程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="1399" width="173" height="49" as="geometry" />
+          <mxGeometry x="196" y="1109" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-11" value="机器人执行打磨作业" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1498" width="205" height="49" as="geometry" />
+          <mxGeometry x="180" y="1208" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-12" value="实时监控与安全管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1597" width="205" height="49" as="geometry" />
+          <mxGeometry x="180" y="1307" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-7" target="nIDe7jRjdWVNAGeVv5EH-8">
           <mxGeometry relative="1" as="geometry">
