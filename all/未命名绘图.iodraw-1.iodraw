@@ -14,7 +14,7 @@
           <mxGeometry x="492" y="20" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-4" value="工业相机采集作业区域点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="106" y="335" width="253" height="67" as="geometry" />
+          <mxGeometry x="696" y="20" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-5" value="点云数据滤波、降噪等预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="412" y="335" width="254" height="67" as="geometry" />
