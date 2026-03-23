@@ -23,7 +23,7 @@
           <mxGeometry x="912" y="19" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="884" y="98" width="254" height="67" as="geometry" />
+          <mxGeometry x="925" y="94" width="166" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-8" value="结合工艺要求进行打磨轨迹规划与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="662" width="254" height="67" as="geometry" />
