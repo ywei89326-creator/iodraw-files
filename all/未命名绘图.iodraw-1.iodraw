@@ -40,6 +40,9 @@
         <mxCell id="aIOe0osj9StLVJsEGYzd-10" value="轨迹程序下发至机器人控制系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="92" width="134" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="aIOe0osj9StLVJsEGYzd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-11" target="aIOe0osj9StLVJsEGYzd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-11" value="机器人执行自动化打磨作业" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="174" width="135" height="49" as="geometry" />
         </mxCell>
