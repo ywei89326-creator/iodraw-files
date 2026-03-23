@@ -32,10 +32,10 @@
           <mxGeometry x="482.5" y="310" width="147.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-10" value="下发机器人程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="486" y="489" width="173" height="49" as="geometry" />
+          <mxGeometry x="470" y="410" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-11" value="机器人执行打磨作业" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="588" width="205" height="49" as="geometry" />
+          <mxGeometry x="454" y="500" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-12" value="实时监控与安全管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="687" width="205" height="49" as="geometry" />
