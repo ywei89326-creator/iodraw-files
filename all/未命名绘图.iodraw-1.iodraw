@@ -26,7 +26,7 @@
           <mxGeometry x="925" y="94" width="166" height="43" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-8" value="结合工艺要求进行打磨轨迹规划与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="651" y="93" width="254" height="67" as="geometry" />
+          <mxGeometry x="629" y="92" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-9" value="轨迹后置处理，生成机器人可识别程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="775" width="254" height="67" as="geometry" />
@@ -76,7 +76,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-7" target="aIOe0osj9StLVJsEGYzd-8">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-7" target="aIOe0osj9StLVJsEGYzd-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
