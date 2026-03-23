@@ -20,7 +20,7 @@
           <mxGeometry x="686" y="-60" width="204" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="可视化选择加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="904" y="17" width="253" height="67" as="geometry" />
+          <mxGeometry x="912" y="1" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="551" width="254" height="67" as="geometry" />
@@ -65,9 +65,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-4" target="aIOe0osj9StLVJsEGYzd-6">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="aIOe0osj9StLVJsEGYzd-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="880" y="42" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-6" target="aIOe0osj9StLVJsEGYzd-7">
