@@ -44,7 +44,7 @@
           <mxGeometry x="255" y="174" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-12" value="实时监控加工状态，数字孪生实时反应机器人当前状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-21" y="450" width="253" height="67" as="geometry" />
+          <mxGeometry x="59" y="290" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-25" y="566" width="261" height="261" as="geometry" />
