@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aIOe0osj9StLVJsEGYzd-1" value="飞机到位并定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-1" value="飞机到位并定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="146" y="20" width="113" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-2" value="多设备坐标系统一标定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-2" value="多设备坐标系统一标定" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="305" y="20" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-3" value="建立工件坐标系，实现工件精确定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
