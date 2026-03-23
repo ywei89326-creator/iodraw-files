@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uR8R_9SIOF71b6ac58Nl">
-    <mxGraphModel dx="815" dy="823" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="190" dy="499" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="686" y="-60" width="204" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="可视化选择加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="912" y="18" width="192" height="50" as="geometry" />
+          <mxGeometry x="912" y="19" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="551" width="254" height="67" as="geometry" />
@@ -65,7 +65,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="aIOe0osj9StLVJsEGYzd-6">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.465;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aIOe0osj9StLVJsEGYzd-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="880" y="42" as="sourcePoint" />
