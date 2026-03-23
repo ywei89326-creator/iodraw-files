@@ -8,7 +8,7 @@
           <mxGeometry x="44" y="20" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-2" value="统一坐标系标定与转换" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="25" y="119" width="215" height="91" as="geometry" />
+          <mxGeometry x="23" y="119" width="215" height="81" as="geometry" />
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-3" value="建立工件坐标系" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="380" width="173" height="49" as="geometry" />
@@ -45,9 +45,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIDe7jRjdWVNAGeVv5EH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-2" target="nIDe7jRjdWVNAGeVv5EH-3">
+        <mxCell id="nIDe7jRjdWVNAGeVv5EH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="131" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIDe7jRjdWVNAGeVv5EH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nIDe7jRjdWVNAGeVv5EH-3" target="nIDe7jRjdWVNAGeVv5EH-4">
