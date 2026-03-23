@@ -29,7 +29,7 @@
           <mxGeometry x="630" y="93" width="258" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-9" value="轨迹后置处理，生成机器人可识别程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="157" y="-278" width="254" height="67" as="geometry" />
+          <mxGeometry x="340" y="92" width="254" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-10" value="轨迹程序下发至机器人控制系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="244" width="253" height="67" as="geometry" />
