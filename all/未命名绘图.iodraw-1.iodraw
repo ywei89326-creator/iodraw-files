@@ -1,23 +1,23 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uR8R_9SIOF71b6ac58Nl">
-    <mxGraphModel dx="1188" dy="618" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1018" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aIOe0osj9StLVJsEGYzd-1" value="飞机到位并定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="146" y="20" width="113" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-2" value="多设备坐标系统一标定" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-2" value="多设备坐标系统一标定" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="305" y="20" width="149" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-3" value="建立工件坐标系，实现工件精确定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-3" value="建立工件坐标系，实现工件精确定位" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="492" y="20" width="165" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-4" value="工业相机采集作业区域点云数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-4" value="工业相机采集作业区域点云数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="696" y="20" width="185" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-5" value="点云数据滤波、降噪等预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="412" y="335" width="254" height="67" as="geometry" />
+          <mxGeometry x="656" y="-86" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="可视化选择加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="447" width="253" height="67" as="geometry" />
