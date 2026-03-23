@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aIOe0osj9StLVJsEGYzd-1" value="飞机到位并定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="20" width="173" height="49" as="geometry" />
+          <mxGeometry x="146" y="20" width="113" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-2" value="多设备坐标系统一标定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="221" height="48" as="geometry" />
+          <mxGeometry x="350" y="20" width="149" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-3" value="建立工件坐标系，实现工件精确定位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="218" width="254" height="67" as="geometry" />
@@ -51,7 +51,9 @@
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-1" target="aIOe0osj9StLVJsEGYzd-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="330" y="41" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-2" target="aIOe0osj9StLVJsEGYzd-3">
