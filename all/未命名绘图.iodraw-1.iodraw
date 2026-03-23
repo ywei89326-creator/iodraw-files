@@ -17,7 +17,7 @@
           <mxGeometry x="106" y="335" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-5" value="点云数据滤波、降噪等预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="413" y="336" width="254" height="67" as="geometry" />
+          <mxGeometry x="412" y="335" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="可视化选择加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="568" width="253" height="67" as="geometry" />
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-5">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-5" target="aIOe0osj9StLVJsEGYzd-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="395" y="359" as="sourcePoint" />
