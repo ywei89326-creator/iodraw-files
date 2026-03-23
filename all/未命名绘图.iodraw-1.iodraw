@@ -52,8 +52,8 @@
         <mxCell id="aIOe0osj9StLVJsEGYzd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aIOe0osj9StLVJsEGYzd-13" target="aIOe0osj9StLVJsEGYzd-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="74" y="390" width="278" height="81" as="geometry" />
+        <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="74" y="390" width="222" height="86" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-14" value="视情修复模块定位指定打磨区域，生成局部轨迹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="506" width="254" height="67" as="geometry" />
