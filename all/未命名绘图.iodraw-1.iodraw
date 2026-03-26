@@ -19,7 +19,7 @@
         <mxCell id="aIOe0osj9StLVJsEGYzd-5" value="点云数据滤波、降噪等预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="686" y="-60" width="204" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="可视化选择加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="视情修复模块定位指定打磨区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="912" y="19" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
