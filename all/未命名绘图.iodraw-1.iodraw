@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-14" value="视情修复模块定位指定打磨区域，生成局部轨迹" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="256" y="582" width="254" height="67" as="geometry" />
+          <mxGeometry x="243" y="529" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="41" y="529" width="58" height="34" as="geometry" />
