@@ -26,40 +26,40 @@
           <mxGeometry x="939" y="-19" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="941" y="144" width="166" height="43" as="geometry" />
+          <mxGeometry x="985" y="135" width="166" height="43" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-8" target="aIOe0osj9StLVJsEGYzd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-8" value="结合工艺要求进行打磨轨迹规划与优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="632" y="143" width="258" height="45" as="geometry" />
+          <mxGeometry x="676" y="134" width="258" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-9" target="aIOe0osj9StLVJsEGYzd-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-9" value="轨迹后置处理，生成机器人可识别程序" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="427" y="142" width="169" height="47" as="geometry" />
+          <mxGeometry x="471" y="133" width="169" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-10" value="轨迹程序下发至机器人控制系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="257" y="142" width="134" height="48" as="geometry" />
+          <mxGeometry x="301" y="133" width="134" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-11" target="aIOe0osj9StLVJsEGYzd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-11" value="机器人执行自动化打磨作业" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="257" y="224" width="135" height="49" as="geometry" />
+          <mxGeometry x="301" y="215" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-12" value="实时监控加工状态，数字孪生实时反应机器人当前状态" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="61" y="340" width="253" height="67" as="geometry" />
+          <mxGeometry x="105" y="331" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-13" target="aIOe0osj9StLVJsEGYzd-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="49" y="440" width="278" height="81" as="geometry" />
+          <mxGeometry x="93" y="431" width="278" height="81" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="43" y="579" width="58" height="34" as="geometry" />
+          <mxGeometry x="87" y="570" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-1" target="aIOe0osj9StLVJsEGYzd-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -103,19 +103,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-42" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="246" y="525" width="30" height="26" as="geometry" />
+          <mxGeometry x="290" y="516" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="111" y="525" width="30" height="26" as="geometry" />
+          <mxGeometry x="155" y="516" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="acVSgPGCIHVnvUYE7q5u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="188" y="550" as="sourcePoint" />
-            <mxPoint x="304" y="580" as="targetPoint" />
+            <mxPoint x="232" y="541" as="sourcePoint" />
+            <mxPoint x="348" y="571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="acVSgPGCIHVnvUYE7q5u-2" value="人工补磨" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="267" y="581" width="73" height="34" as="geometry" />
+          <mxGeometry x="311" y="572" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="acVSgPGCIHVnvUYE7q5u-6" value="视情处理软件自定义加工区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="939" y="56" width="219" height="49" as="geometry" />
