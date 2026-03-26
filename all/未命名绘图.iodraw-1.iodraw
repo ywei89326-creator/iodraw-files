@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uR8R_9SIOF71b6ac58Nl">
-    <mxGraphModel dx="1492" dy="1058" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="713" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,9 +52,10 @@
         <mxCell id="aIOe0osj9StLVJsEGYzd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-13" target="aIOe0osj9StLVJsEGYzd-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aIOe0osj9StLVJsEGYzd-13" edge="1">
+        <mxCell id="aIOe0osj9StLVJsEGYzd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aIOe0osj9StLVJsEGYzd-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="520" as="targetPoint" />
+            <mxPoint x="187.99828336272807" y="473.00380952380965" as="sourcePoint" />
+            <mxPoint x="281" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
