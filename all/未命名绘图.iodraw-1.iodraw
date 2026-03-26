@@ -20,7 +20,7 @@
           <mxGeometry x="686" y="-60" width="204" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-6" value="视情修复模块定位指定打磨区域，提取对应点云/几何模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="912" y="19" width="192" height="49" as="geometry" />
+          <mxGeometry x="912" y="19" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-7" value="点云数据与设计模型匹配对齐" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="925" y="94" width="166" height="43" as="geometry" />
@@ -59,9 +59,6 @@
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-13" value="视觉评判打磨效果，质量是否达标?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="47" y="390" width="278" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="aIOe0osj9StLVJsEGYzd-14" value="视情修复模块定位指定打磨区域，生成局部轨迹" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="844" y="233" width="254" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aIOe0osj9StLVJsEGYzd-15" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="41" y="529" width="58" height="34" as="geometry" />
