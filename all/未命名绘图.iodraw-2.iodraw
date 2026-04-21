@@ -96,6 +96,15 @@
             <mxPoint x="610" y="736.4300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mirEaIG_FAB4xxeLcT6v-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="380" />
+            </Array>
+            <mxPoint x="330" y="364" as="sourcePoint" />
+            <mxPoint x="239" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
