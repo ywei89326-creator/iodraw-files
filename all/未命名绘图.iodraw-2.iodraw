@@ -26,7 +26,7 @@
           <mxGeometry x="327" y="416" width="96" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-8" value="输出检测结果&#xa;位置 + 角度 + 余高" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="294" y="533" width="163" height="67" as="geometry" />
+          <mxGeometry x="291" y="667" width="163" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-9" value="角度分支&#xa;坡口角度回归" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="627" y="600" width="127" height="67" as="geometry" />
@@ -85,20 +85,6 @@
         <mxCell id="mirEaIG_FAB4xxeLcT6v-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-7" target="mirEaIG_FAB4xxeLcT6v-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="537" y="391" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="715" y="391" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-9">
