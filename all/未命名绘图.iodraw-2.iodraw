@@ -17,13 +17,13 @@
           <mxGeometry x="320" y="317" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-5" value="热力图分支&#xa;中心点检测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="416" width="111" height="67" as="geometry" />
+          <mxGeometry x="173.5" y="420" width="111" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-6" value="尺寸分支&#xa;宽高回归" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="181" y="416" width="96" height="67" as="geometry" />
+          <mxGeometry x="334.5" y="420" width="96" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-7" value="偏移分支&#xa;坐标修正" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="327" y="416" width="96" height="67" as="geometry" />
+          <mxGeometry x="480.5" y="420" width="96" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-8" value="输出检测结果&#xa;位置 + 角度 + 余高" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="291" y="667" width="163" height="67" as="geometry" />
