@@ -13,14 +13,19 @@
         <mxCell id="mirEaIG_FAB4xxeLcT6v-3" value="FPN特征融合" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="314" y="218" width="123" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="mirEaIG_FAB4xxeLcT6v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-4" value="共享特征图" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="320" y="317" width="110" height="49" as="geometry" />
+          <mxGeometry x="320" y="317" width="110" height="53" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-5" value="热力图分支&#xa;中心点检测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="173.5" y="420" width="111" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-6" value="尺寸分支&#xa;宽高回归" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="334.5" y="420" width="96" height="67" as="geometry" />
+          <mxGeometry x="328" y="420" width="96" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-7" value="偏移分支&#xa;坐标修正" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="480.5" y="420" width="96" height="67" as="geometry" />
@@ -54,18 +59,6 @@
             <Array as="points">
               <mxPoint x="250" y="370" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="391" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-5" target="mirEaIG_FAB4xxeLcT6v-8">
