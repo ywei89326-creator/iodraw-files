@@ -34,10 +34,10 @@
           <mxGeometry x="295" y="667" width="163" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-9" value="角度分支&#xa;坡口角度回归" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="627" y="600" width="127" height="67" as="geometry" />
+          <mxGeometry x="227" y="530.5699999999999" width="127" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-10" value="余高分支&#xa;焊缝余高回归" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="804" y="600" width="127" height="67" as="geometry" />
+          <mxGeometry x="404" y="530.5699999999999" width="127" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-1" target="mirEaIG_FAB4xxeLcT6v-2">
           <mxGeometry relative="1" as="geometry">
@@ -61,39 +61,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-5" target="mirEaIG_FAB4xxeLcT6v-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="76" y="508" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-6" target="mirEaIG_FAB4xxeLcT6v-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="508" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mirEaIG_FAB4xxeLcT6v-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-7" target="mirEaIG_FAB4xxeLcT6v-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.06;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="692" />
+              <mxPoint x="290" y="622.5699999999999" />
             </Array>
-            <mxPoint x="610" y="721.02" as="targetPoint" />
+            <mxPoint x="210" y="651.5899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="868" y="692" />
+              <mxPoint x="468" y="622.5699999999999" />
             </Array>
-            <mxPoint x="610" y="736.4300000000001" as="targetPoint" />
+            <mxPoint x="210" y="667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
