@@ -52,14 +52,14 @@
         <mxCell id="mirEaIG_FAB4xxeLcT6v-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="76" y="391" />
+              <mxPoint x="250" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mirEaIG_FAB4xxeLcT6v-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mirEaIG_FAB4xxeLcT6v-4" target="mirEaIG_FAB4xxeLcT6v-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="229" y="391" />
+              <mxPoint x="340" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
