@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-34" value="轨迹重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yBttkJmOfk7m0QW4DBGA-34" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="2766" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-35" value="导入机器人执行打磨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
