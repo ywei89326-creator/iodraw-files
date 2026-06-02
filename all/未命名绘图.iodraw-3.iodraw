@@ -137,7 +137,14 @@
           <mxGeometry x="241" y="2885" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-34" target="yBttkJmOfk7m0QW4DBGA-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="3053" />
+              <mxPoint x="480" y="3053" />
+              <mxPoint x="480" y="2270" />
+              <mxPoint x="621" y="2270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-34" value="轨迹重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="265" y="2984" width="156" height="49" as="geometry" />
