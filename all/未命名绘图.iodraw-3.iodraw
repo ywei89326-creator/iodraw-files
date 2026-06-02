@@ -164,6 +164,14 @@
         <mxCell id="yBttkJmOfk7m0QW4DBGA-38" value="更新点云与局部轨迹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="518" y="2610" width="205" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="yBttkJmOfk7m0QW4DBGA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-39" target="yBttkJmOfk7m0QW4DBGA-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="3090" />
+              <mxPoint x="343" y="3090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-39" value="进入下一轮迭代" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="539.5" y="2700" width="162" height="162" as="geometry" />
         </mxCell>
@@ -215,14 +223,6 @@
         <mxCell id="yBttkJmOfk7m0QW4DBGA-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-37" target="yBttkJmOfk7m0QW4DBGA-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-52" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0.73;entryY=0.99;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-39" target="yBttkJmOfk7m0QW4DBGA-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="3477" />
-              <mxPoint x="416" y="3058" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
