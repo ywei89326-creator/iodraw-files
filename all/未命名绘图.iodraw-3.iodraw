@@ -115,12 +115,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-27" value="初始轨迹生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="264" y="2290" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-28" value="机器人空跑验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="256" y="2389" width="174" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-29" value="三维彩色扫描工件表面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="233" y="2488" width="220" height="49" as="geometry" />
         </mxCell>
@@ -174,16 +168,6 @@
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-39" value="进入下一轮迭代" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="539.5" y="2700" width="162" height="162" as="geometry" />
-        </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-27" target="yBttkJmOfk7m0QW4DBGA-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yBttkJmOfk7m0QW4DBGA-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-28" target="yBttkJmOfk7m0QW4DBGA-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-29" target="yBttkJmOfk7m0QW4DBGA-30">
           <mxGeometry relative="1" as="geometry">
