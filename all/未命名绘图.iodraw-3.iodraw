@@ -116,19 +116,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-29" value="三维彩色扫描工件表面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="233" y="2488" width="220" height="49" as="geometry" />
+          <mxGeometry x="233" y="2270" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-30" value="HSV颜色阈值识别漏黄区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="2587" width="249" height="49" as="geometry" />
+          <mxGeometry x="219" y="2369" width="249" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-31" value="形态学优化获取稳定Mask" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="224" y="2686" width="239" height="49" as="geometry" />
+          <mxGeometry x="224" y="2468" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-32" value="二维区域映射至三维点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2785" width="236" height="49" as="geometry" />
+          <mxGeometry x="225" y="2567" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-33" value="提取未打磨区域点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="241" y="2885" width="205" height="49" as="geometry" />
+          <mxGeometry x="241" y="2667" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-34" target="yBttkJmOfk7m0QW4DBGA-35">
           <mxGeometry relative="1" as="geometry">
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-34" value="轨迹重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="265" y="2984" width="156" height="49" as="geometry" />
+          <mxGeometry x="265" y="2766" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-35" value="导入机器人执行打磨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="518" y="2290" width="205" height="49" as="geometry" />
