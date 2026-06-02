@@ -116,43 +116,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-27" value="初始轨迹生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1510" width="158" height="49" as="geometry" />
+          <mxGeometry x="264" y="2290" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-28" value="机器人空跑验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="116" y="1609" width="174" height="49" as="geometry" />
+          <mxGeometry x="256" y="2389" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-29" value="三维彩色扫描工件表面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="1708" width="220" height="49" as="geometry" />
+          <mxGeometry x="233" y="2488" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-30" value="HSV颜色阈值识别漏黄区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="1807" width="249" height="49" as="geometry" />
+          <mxGeometry x="219" y="2587" width="249" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-31" value="形态学优化获取稳定Mask" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="1906" width="239" height="49" as="geometry" />
+          <mxGeometry x="224" y="2686" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-32" value="二维区域映射至三维点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="2005" width="236" height="49" as="geometry" />
+          <mxGeometry x="225" y="2785" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-33" value="提取未打磨区域点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="101" y="2105" width="205" height="49" as="geometry" />
+          <mxGeometry x="241" y="2885" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-34" value="轨迹重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="125" y="2204" width="156" height="49" as="geometry" />
+          <mxGeometry x="265" y="2984" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-35" value="导入机器人执行打磨" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="2303" width="205" height="49" as="geometry" />
+          <mxGeometry x="168" y="3083" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-36" value="二次扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="2402" width="125" height="49" as="geometry" />
+          <mxGeometry x="208" y="3182" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-37" value="重新识别剩余漏黄区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2524" width="221" height="49" as="geometry" />
+          <mxGeometry x="160" y="3304" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-38" value="更新点云与局部轨迹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28" y="2623" width="205" height="49" as="geometry" />
+          <mxGeometry x="168" y="3403" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-39" value="进入下一轮迭代" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="122" y="2722" width="162" height="162" as="geometry" />
+          <mxGeometry x="262" y="3502" width="162" height="162" as="geometry" />
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-27" target="yBttkJmOfk7m0QW4DBGA-28">
           <mxGeometry relative="1" as="geometry">
@@ -192,7 +192,7 @@
         <mxCell id="yBttkJmOfk7m0QW4DBGA-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-34" target="yBttkJmOfk7m0QW4DBGA-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="131" y="2278" />
+              <mxPoint x="271" y="3058" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,15 +214,15 @@
         <mxCell id="yBttkJmOfk7m0QW4DBGA-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-38" target="yBttkJmOfk7m0QW4DBGA-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="131" y="2697" />
+              <mxPoint x="271" y="3477" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yBttkJmOfk7m0QW4DBGA-52" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0.73;entryY=0.99;rounded=0;" edge="1" parent="1" source="yBttkJmOfk7m0QW4DBGA-39" target="yBttkJmOfk7m0QW4DBGA-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="276" y="2697" />
-              <mxPoint x="276" y="2278" />
+              <mxPoint x="416" y="3477" />
+              <mxPoint x="416" y="3058" />
             </Array>
           </mxGeometry>
         </mxCell>
