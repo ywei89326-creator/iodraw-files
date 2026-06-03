@@ -8,19 +8,19 @@
           <mxGeometry x="2002" y="1934" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-34" value="环境感知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2027" y="1802" width="89" height="49" as="geometry" />
+          <mxGeometry x="2048" y="1806" width="44" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-35" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2192" y="1929" width="126" height="49" as="geometry" />
+          <mxGeometry x="2224" y="1921" width="44" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-36" value="轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1884.5" y="2094" width="125" height="49" as="geometry" />
+          <mxGeometry x="1871" y="2113" width="54" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1796" y="1937" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-38" value="视情修复" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2115" y="2093" width="126" height="49" as="geometry" />
+          <mxGeometry x="2122" y="2112" width="58" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;激光扫描/机器视觉&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2201" y="1809" width="130" height="40" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="2248" y="2038" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-41" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;运动学建模/避障算法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1884.5" y="2144" width="140" height="40" as="geometry" />
+          <mxGeometry x="1995" y="2162" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;精密伺服/协同控制&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1796" y="1986" width="130" height="40" as="geometry" />
@@ -44,13 +44,13 @@
           <mxGeometry x="2161" y="2016" width="100.33" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-105;" parent="1" vertex="1">
-          <mxGeometry x="1891.2799999999997" y="2014.62" width="100.25" height="70" as="geometry" />
+          <mxGeometry x="1871.9999999999998" y="2023" width="100.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.41;dx=37.93;arrowHead=31.45;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="1895.4" y="1842.74" width="96.41" height="79" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.61;dx=22.07;flipH=1;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="2024.5" y="2110.25" width="69.75" height="23.75" as="geometry" />
+          <mxGeometry x="2027" y="2123" width="69.75" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
