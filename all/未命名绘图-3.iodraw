@@ -17,7 +17,7 @@
           <mxGeometry x="1955" y="2114" width="54" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-37" value="机器人执行" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1796" y="1937" width="142" height="49" as="geometry" />
+          <mxGeometry x="1834" y="1937" width="46" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-38" value="视情修复" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2122" y="2112" width="58" height="49" as="geometry" />
