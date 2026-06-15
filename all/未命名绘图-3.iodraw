@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NQSI_PV2AnohTStotP6f-33" value="坐标系统一" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2002" y="1934" width="113" height="113" as="geometry" />
+          <mxGeometry x="2011" y="1931" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NQSI_PV2AnohTStotP6f-34" value="环境感知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2048" y="1806" width="44" height="49" as="geometry" />
