@@ -199,7 +199,7 @@
           <mxGeometry x="682" y="2821" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-90" value="· 碰撞检测&#xa;· 可达性验证&#xa;· 后置代码生成&#xa;· 同步至控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="432" y="2994" width="147" height="87" as="geometry" />
+          <mxGeometry x="499" y="2983" width="147" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-82" target="ldB3P6WaXA3raF0yNsSS-83">
           <mxGeometry relative="1" as="geometry">
@@ -239,13 +239,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="53" y="2992" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ldB3P6WaXA3raF0yNsSS-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-81" target="ldB3P6WaXA3raF0yNsSS-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="252" y="2992" />
+              <mxPoint x="435" y="3098" />
             </Array>
           </mxGeometry>
         </mxCell>
