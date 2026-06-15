@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-78" value="定位系统联动与人工选取轨迹规划流程" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="2647" width="802" height="1183" as="geometry" />
+          <mxGeometry x="1050" y="2607" width="802" height="1183" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-79" value="步骤一：&#xa;定位系统采集&#xa;当前装备位姿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ldB3P6WaXA3raF0yNsSS-78">
           <mxGeometry x="-799" y="-136" width="145" height="76" as="geometry" />
@@ -240,6 +240,13 @@
             <Array as="points">
               <mxPoint x="53" y="2992" />
               <mxPoint x="435" y="3098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-81" target="ldB3P6WaXA3raF0yNsSS-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="2992" />
             </Array>
           </mxGeometry>
         </mxCell>
