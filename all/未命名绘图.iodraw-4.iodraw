@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mRtFZ7__vtTdxhO5Z49L">
-    <mxGraphModel dx="1297" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,22 +181,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-82" value="步骤四：&#xa;区域分析&#xa;与参数设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="639" y="2505" width="131" height="76" as="geometry" />
+          <mxGeometry x="706" y="2494" width="131" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-83" value="步骤五：&#xa;自动轨迹规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="531" y="2683" width="144" height="61" as="geometry" />
+          <mxGeometry x="598" y="2672" width="144" height="61" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-84" value="步骤六：&#xa;轨迹验证&#xa;与后置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="447" y="2837" width="117" height="76" as="geometry" />
+          <mxGeometry x="514" y="2826" width="117" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-87" value="· 三维场景中&#xa;  点选区域&#xa;· 框选/套索选择&#xa;· 几何特征拾取&#xa;· 多重区域选取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="826" y="2493" width="154" height="102" as="geometry" />
+          <mxGeometry x="893" y="2482" width="154" height="102" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-88" value="· 区域曲率分析&#xa;· 边界提取与判断&#xa;· 工艺参数绑定&#xa;· 规划策略选择" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="725" y="2669" width="160" height="87" as="geometry" />
+          <mxGeometry x="792" y="2658" width="160" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-89" value="· 轨迹覆盖策略生成&#xa;· 路径填充算法&#xa;· 姿态自动计算&#xa;· 轨迹平滑优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="615" y="2832" width="173" height="87" as="geometry" />
+          <mxGeometry x="682" y="2821" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-90" value="· 碰撞检测&#xa;· 可达性验证&#xa;· 后置代码生成&#xa;· 同步至控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="432" y="2994" width="147" height="87" as="geometry" />
@@ -204,34 +204,35 @@
         <mxCell id="ldB3P6WaXA3raF0yNsSS-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-82" target="ldB3P6WaXA3raF0yNsSS-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="603" y="2632" />
+              <mxPoint x="670" y="2621" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-83" target="ldB3P6WaXA3raF0yNsSS-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506" y="2794" />
+              <mxPoint x="573" y="2783" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-82" target="ldB3P6WaXA3raF0yNsSS-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="806" y="2632" />
+              <mxPoint x="873" y="2621" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-83" target="ldB3P6WaXA3raF0yNsSS-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="701" y="2794" />
+              <mxPoint x="768" y="2783" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldB3P6WaXA3raF0yNsSS-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-84" target="ldB3P6WaXA3raF0yNsSS-90">
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="572.5" y="2983.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ldB3P6WaXA3raF0yNsSS-93" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-81" target="ldB3P6WaXA3raF0yNsSS-82">
