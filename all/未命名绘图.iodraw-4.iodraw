@@ -211,6 +211,57 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-52" value="步骤一：虚拟环境搭建&#xa;· 导入飞机蒙皮三维模型&#xa;· 配置机器人选型及外部轴&#xa;· 定义工装布局及工件位姿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23" y="1860" width="247" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-53" value="步骤二：蒙皮打磨轨迹导入与配置&#xa;· 加载母版程序&#xa;· 配置工艺参数&#xa;· 设定打磨轨迹&#xa;· 设置轨迹容差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2012" width="253" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-54" value="步骤三：碰撞检测与干涉分析&#xa;· 开启碰撞检测&#xa;· 检测机器人本体-蒙皮干涉&#xa;· 检测工具-蒙皮干涉&#xa;· 输出碰撞信息高亮显示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2199" width="254" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-55" value="步骤四：可达性与轴限位校核&#xa;· 法兰可达空间分析&#xa;· 末端工具可达空间分析&#xa;· 关节超限检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2386" width="253" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-56" value="步骤五：轨迹优化与姿态调整&#xa;· 奇异点拖拽避让&#xa;· 轴限位冲突一键优化&#xa;· 路径平滑处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="2556" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-57" value="步骤六：节拍分析与工艺仿真&#xa;· 节拍仿真测算&#xa;· 打磨覆盖区域可视化确认&#xa;· 去除深度仿真&#xa;· 工艺可行性评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2725" width="253" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-58" value="验证通过，生成后置代码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="2912" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-52" target="ldB3P6WaXA3raF0yNsSS-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-53" target="ldB3P6WaXA3raF0yNsSS-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-54" target="ldB3P6WaXA3raF0yNsSS-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-55" target="ldB3P6WaXA3raF0yNsSS-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-56" target="ldB3P6WaXA3raF0yNsSS-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldB3P6WaXA3raF0yNsSS-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ldB3P6WaXA3raF0yNsSS-57" target="ldB3P6WaXA3raF0yNsSS-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
