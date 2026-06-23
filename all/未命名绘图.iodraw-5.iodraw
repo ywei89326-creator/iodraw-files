@@ -57,12 +57,12 @@
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514.9399999999999" y="835.608" as="sourcePoint" />
-            <mxPoint x="514.94" y="890" as="targetPoint" />
+            <mxPoint x="518.3" y="825.608" as="sourcePoint" />
+            <mxPoint x="518.3000000000001" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="490.41" y="650" width="56.18" height="395.06" as="geometry" />
+          <mxGeometry x="503.7" y="636.71" width="29.59" height="395.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
