@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="1076" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-44" value="计算孔间距" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="720" y="940" width="141" height="195" as="geometry" />
+          <mxGeometry x="547" y="930" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-45" value="输出测量结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="439" y="1176" width="158" height="49" as="geometry" />
