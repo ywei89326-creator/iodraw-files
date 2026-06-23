@@ -61,7 +61,7 @@
             <mxPoint x="514.94" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;" vertex="1" parent="1">
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="486.99" y="660.55" width="56.18" height="395.06" as="geometry" />
         </mxCell>
       </root>
