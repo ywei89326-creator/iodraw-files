@@ -113,6 +113,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-60" value="采集点云数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="90" y="429" width="204" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
