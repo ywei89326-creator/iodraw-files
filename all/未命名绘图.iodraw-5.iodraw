@@ -119,11 +119,11 @@
         <mxCell id="vKhfm_k1-mESzFgZeUcd-61" value="基于栅格模板裁切 ROI&#xa;将每个孔特征分割为独立区&#xa;域" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="60" y="546" width="253" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1">
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;entryDx=0;entryDy=0;" edge="1" parent="1" target="vKhfm_k1-mESzFgZeUcd-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="190" y="496" as="sourcePoint" />
-            <mxPoint x="191" y="546" as="targetPoint" />
+            <mxPoint x="191.5" y="496" as="sourcePoint" />
+            <mxPoint x="192.5" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
