@@ -14,7 +14,7 @@
           <mxGeometry x="408" y="680" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-39" value="去噪声" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="710" y="640" width="108" height="49" as="geometry" />
+          <mxGeometry x="710" y="634" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-40" value="提高孔内径轮廓质量" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="710" y="729" width="206" height="49" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="391.5" y="550" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="629" y="657.25" width="81" height="94.5" as="geometry" />
+          <mxGeometry x="620" y="657.25" width="90" height="94.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
