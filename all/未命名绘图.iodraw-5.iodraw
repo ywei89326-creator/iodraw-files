@@ -11,10 +11,10 @@
           <mxGeometry x="408" y="680" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-39" value="去噪声" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="710" y="631" width="108" height="49" as="geometry" />
+          <mxGeometry x="710" y="640" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-40" value="提高孔内径轮廓质量" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="661" y="740" width="206" height="49" as="geometry" />
+          <mxGeometry x="710" y="740" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-41" value="最佳拟合圆" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="448" y="878" width="140" height="49" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-61" value="基于栅格模板裁切 ROI&#xa;将每个孔特征分割为独立区&#xa;域" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="550" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
