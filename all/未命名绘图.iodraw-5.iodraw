@@ -14,7 +14,7 @@
           <mxGeometry x="710" y="631" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-40" value="提高孔内径轮廓质量" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="670" y="760" width="206" height="49" as="geometry" />
+          <mxGeometry x="661" y="740" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-41" value="最佳拟合圆" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="448" y="878" width="140" height="49" as="geometry" />
@@ -44,27 +44,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="518.5" y="630" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.51;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-38" target="vKhfm_k1-mESzFgZeUcd-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="754" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-38" target="vKhfm_k1-mESzFgZeUcd-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="622" y="754" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.14;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-39" target="vKhfm_k1-mESzFgZeUcd-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="853" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.87;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-40" target="vKhfm_k1-mESzFgZeUcd-41">
