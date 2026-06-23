@@ -64,14 +64,6 @@
         <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;" vertex="1" parent="1">
           <mxGeometry x="486.99" y="660.55" width="56.18" height="395.06" as="geometry" />
         </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.413;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-44" target="vKhfm_k1-mESzFgZeUcd-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="890" />
-              <mxPoint x="490" y="888" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
