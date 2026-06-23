@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="x8vUf9XM4s2R2lnZV5u1">
-    <mxGraphModel dx="1252" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="348" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,13 +117,13 @@
           <mxGeometry x="90" y="429" width="204" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-61" value="基于栅格模板裁切 ROI&#xa;将每个孔特征分割为独立区&#xa;域" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="65.5" y="546" width="253" height="84" as="geometry" />
+          <mxGeometry x="60" y="546" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="528" y="506" as="sourcePoint" />
-            <mxPoint x="529" y="556" as="targetPoint" />
+            <mxPoint x="190" y="496" as="sourcePoint" />
+            <mxPoint x="191" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
