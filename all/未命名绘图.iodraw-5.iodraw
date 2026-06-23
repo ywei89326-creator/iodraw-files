@@ -1,0 +1,81 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="x8vUf9XM4s2R2lnZV5u1">
+    <mxGraphModel dx="1492" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-18" value="零件声村孔图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-19" value="滤波与反崎变换法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="178" y="119" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-20" value="参数调整与适配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="185" y="218" width="143" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-21" value="轮廓检测与定位" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="53" y="317" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-22" value="孔口缺陷检测样本集构建" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="286" y="317" width="208" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-23" value="孔位、孔径、孔间隙测量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="425" width="208" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-24" value="缺陷检测网络模型设计与训练" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="278" y="416" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-25" value="理论比较与输出" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="53" y="533" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-26" value="缺陷自动识别及预警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="302" y="533" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-18" target="vKhfm_k1-mESzFgZeUcd-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-19" target="vKhfm_k1-mESzFgZeUcd-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-20" target="vKhfm_k1-mESzFgZeUcd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-20" target="vKhfm_k1-mESzFgZeUcd-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-21" target="vKhfm_k1-mESzFgZeUcd-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-22" target="vKhfm_k1-mESzFgZeUcd-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-23" target="vKhfm_k1-mESzFgZeUcd-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-24" target="vKhfm_k1-mESzFgZeUcd-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
