@@ -46,7 +46,7 @@
             <mxPoint x="518.5" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.87;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-40" target="vKhfm_k1-mESzFgZeUcd-41">
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0.01;rounded=0;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-38" target="vKhfm_k1-mESzFgZeUcd-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="622" y="853" />
@@ -101,7 +101,7 @@
           <mxGeometry x="391.5" y="550" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="20" height="120" as="geometry" />
+          <mxGeometry x="629" y="670" width="81" height="94.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
