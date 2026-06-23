@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="x8vUf9XM4s2R2lnZV5u1">
-    <mxGraphModel dx="501" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="448.5" y="770" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-42" value="法矢检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="230.5" y="891" width="161" height="49" as="geometry" />
+          <mxGeometry x="270" y="880" width="131" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-43" value="计算单个孔径" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="629" y="890" width="157" height="49" as="geometry" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="503.7" y="636.71" width="29.59" height="395.06" as="geometry" />
+          <mxGeometry x="490.35" y="650.06" width="56.3" height="395.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
