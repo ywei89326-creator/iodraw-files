@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="1076" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-44" value="计算孔间距" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="448.5" y="910" width="141" height="50" as="geometry" />
+          <mxGeometry x="429.39" y="910" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-45" value="输出测量结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="439" y="1176" width="158" height="49" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="495.25" y="680.25" width="49" height="348.5" as="geometry" />
+          <mxGeometry x="463.29" y="672.49" width="73.2" height="388.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
