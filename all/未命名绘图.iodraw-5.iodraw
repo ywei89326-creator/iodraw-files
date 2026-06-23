@@ -29,7 +29,7 @@
           <mxGeometry x="640" y="909" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-44" value="计算孔间距" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="460" y="909" width="141" height="50" as="geometry" />
+          <mxGeometry x="448.5" y="908" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-36">
           <mxGeometry relative="1" as="geometry">
@@ -59,7 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.24726775956284028;" vertex="1" parent="1">
-          <mxGeometry x="481.90000000000003" y="672.49" width="73.2" height="388.2" as="geometry" />
+          <mxGeometry x="499.45" y="654.94" width="38.1" height="388.2" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.413;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-44" target="vKhfm_k1-mESzFgZeUcd-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
