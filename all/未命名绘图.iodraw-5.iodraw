@@ -23,13 +23,13 @@
           <mxGeometry x="448.5" y="780" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-42" value="测量孔法向与平面法向" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="408" y="977" width="221" height="49" as="geometry" />
+          <mxGeometry x="195" y="910" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-43" value="计算单个孔径" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="340" y="1076" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-44" value="计算孔间距" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="547" y="930" width="141" height="50" as="geometry" />
+          <mxGeometry x="448.5" y="910" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-45" value="输出测量结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="439" y="1176" width="158" height="49" as="geometry" />
@@ -53,14 +53,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="419" y="1051" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=17;" edge="1" parent="1" source="vKhfm_k1-mESzFgZeUcd-42" target="vKhfm_k1-mESzFgZeUcd-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="618" y="1051" />
-              <mxPoint x="618" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
