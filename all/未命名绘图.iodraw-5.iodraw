@@ -20,10 +20,10 @@
           <mxGeometry x="710" y="729" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-41" value="最佳拟合圆" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="448.5" y="780" width="140" height="49" as="geometry" />
+          <mxGeometry x="448.5" y="770" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-42" value="法矢检测" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="270" y="891" width="161" height="49" as="geometry" />
+          <mxGeometry x="230.5" y="891" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-43" value="计算单个孔径" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="629" y="890" width="157" height="49" as="geometry" />
