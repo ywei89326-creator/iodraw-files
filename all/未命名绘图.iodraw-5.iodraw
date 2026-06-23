@@ -113,8 +113,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vKhfm_k1-mESzFgZeUcd-60" value="采集点云数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-60" value="工件坐标系建立" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="90" y="429" width="204" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhfm_k1-mESzFgZeUcd-61" value="基于栅格模板裁切 ROI&#xa;将每个孔特征分割为独立区&#xa;域" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="80" y="546" width="253" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
