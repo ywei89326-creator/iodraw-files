@@ -23,7 +23,7 @@
           <mxGeometry x="448.5" y="780" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-42" value="测量孔法向与平面法向" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="210" y="909" width="221" height="49" as="geometry" />
+          <mxGeometry x="210" y="891" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vKhfm_k1-mESzFgZeUcd-43" value="计算单个孔径" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="640" y="909" width="157" height="49" as="geometry" />
